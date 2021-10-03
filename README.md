@@ -2,7 +2,7 @@
 
 ### Hello Fellow Human Beings 🐈
 
-This is my repo, copy anithing that might suit for you
+Welcome to my repo! Copy anithing that might suit for you XD
 - 🔭 I’m currently working as a Web fullstack developer
 - 🌱 I’m currently learning How to code Better
 - 🐧 I realy like open source in general
